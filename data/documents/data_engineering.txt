@@ -1,0 +1,12 @@
+﻿# Enterprise Data Engineering
+
+Data engineering is the practice of designing and maintaining systems that collect, store, process, and transform data.
+
+An ETL pipeline consists of three stages:
+1. Extract data from source systems.
+2. Transform data into a consistent and useful format.
+3. Load processed data into a destination such as a database or data warehouse.
+
+Apache Spark is a distributed data processing framework designed to process large datasets across multiple computers.
+
+PostgreSQL is a relational database management system that supports SQL queries, transactions, and structured data storage.
